@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/RestroomApp.ipa</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/RestroomMap_Test/RestroomApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/logo_57.png</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/logo_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/logo_1024.png</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/logo_1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/RestroomApp-528E9F02-3BB6-44B2-A30A-E46088046C1F.ipa</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/RestroomMap_Test/RestroomApp-528E9F02-3BB6-44B2-A30A-E46088046C1F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -165,7 +165,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/RestroomApp-9ED797BF-DCF2-4EE7-9D92-D2579A7A57ED.ipa</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/RestroomMap_Test/RestroomApp-9ED797BF-DCF2-4EE7-9D92-D2579A7A57ED.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -363,7 +363,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/RestroomApp-C08196DD-EA33-4A06-9B30-7FE255F44524.ipa</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/RestroomMap_Test/RestroomApp-C08196DD-EA33-4A06-9B30-7FE255F44524.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -403,7 +403,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kxbsny/RestroomMap_Test/raw/main/RestroomApp-DD65E60B-78A2-4383-9092-0B68D3F8FD46.ipa</string>
+					<string>https://github.com/kxbsny/restroom_testing_app/raw/main/RestroomMap_Test/RestroomApp-DD65E60B-78A2-4383-9092-0B68D3F8FD46.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
